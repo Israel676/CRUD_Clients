@@ -13,7 +13,7 @@ class Program
         //foreach (var client in controller.GetAllClients())
         //{
         //    Console.WriteLine($"{client.ID} - {client.Name}, {client.Number}, {client.Email}");
-        }
+        //}
 
         // Example: Add a new client
         Console.WriteLine("\nAdding a new client...");
