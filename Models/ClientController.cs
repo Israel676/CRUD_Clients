@@ -9,7 +9,7 @@ namespace CRUD_Clients.Models
 {
     public class ClientController
     {
-        private readonly string connectionString = "";
+        private readonly string connectionString ="Data Source=localhost,1433;Initial Catalog=Registration;Integrated Security=True;";
 
         public List<Client> GetAllClients()
         {
