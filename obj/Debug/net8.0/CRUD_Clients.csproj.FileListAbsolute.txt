@@ -3,3 +3,13 @@ C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.Assemb
 C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.AssemblyInfo.cs
 C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.csproj.CoreCompileInputs.cache
 C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.sourcelink.json
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\bin\Debug\net8.0\CRUD_Clients.exe
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\bin\Debug\net8.0\CRUD_Clients.deps.json
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\bin\Debug\net8.0\CRUD_Clients.runtimeconfig.json
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\bin\Debug\net8.0\CRUD_Clients.dll
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\bin\Debug\net8.0\CRUD_Clients.pdb
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.dll
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\refint\CRUD_Clients.dll
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.pdb
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.genruntimeconfig.cache
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\ref\CRUD_Clients.dll
