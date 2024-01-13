@@ -1,0 +1,5 @@
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.AssemblyInfoInputs.cache
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.AssemblyInfo.cs
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.csproj.CoreCompileInputs.cache
+C:\Dev\Cadastro de Clientes C#\CRUD_Clients\obj\Debug\net8.0\CRUD_Clients.sourcelink.json
